@@ -10,7 +10,7 @@ python3 -m http.server 8484
 ```
 
 ### 工作原理
-js-api-proxy 将会在所有的Content-Type为HTML的响应报文的<head>标签之后添加一段代码:
+js-api-proxy 将会在所有的Content-Type为HTML的响应报文的`<head>`标签之后添加一段代码:
 ```html 
 <!--js api proxy start--> <script src="http://localhost:8484/proxy.js"></script><!--js api proxy end-->
 ```
