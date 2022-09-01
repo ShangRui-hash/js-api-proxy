@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="js-api-proxy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/js_api_proxy_jar</output-path>
+    <root id="archive" name="js-api-proxy.jar">
+      <element id="module-output" name="js-api-proxy" />
+    </root>
+  </artifact>
+</component>
