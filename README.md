@@ -2,8 +2,8 @@
 一个用来对混淆的js代码进行逆向工程的工具
 
 ### usage
-step1. 将 js-api-proxy.jar 添加为burpsuite的插件
-step2. 启动一个静态资源服务器
+- step1. 将 js-api-proxy.jar 添加为burpsuite的插件
+- step2. 启动一个静态资源服务器
 ```
 cd js
 python3 -m http.server 8484 
