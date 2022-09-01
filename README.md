@@ -1,7 +1,7 @@
 ## js-api-proxy 
 一个用来对混淆的js代码进行逆向工程的工具
 
-### usage
+### 使用方法
 - step1. 将 js-api-proxy.jar 添加为burpsuite的插件
 - step2. 启动一个静态资源服务器
 ```
@@ -36,3 +36,8 @@ handler = {
   ...
 ```
 这样一来当相关函数被调用时，将会在控制台输出调用日志。
+
+### 贡献代码
+- step1. 开一个新分支
+- step2. 在新分支上添加您的代码
+- step3. 推送新分支到github，并提交一个pull request 
