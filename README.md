@@ -41,3 +41,6 @@ handler = {
 - step1. 开一个新分支
 - step2. 在新分支上添加您的代码
 - step3. 推送新分支到github，并提交一个pull request 
+
+## QQ 交流群
+<img src="https://store.heytapimage.com/cdo-portal/feedback/202301/04/ed1d5ac9f0c48af0a154037fb892024f.png" height="250px" width="250px" alt="图片.png" title="图片.png" referrerPolicy="no-referrer" />
